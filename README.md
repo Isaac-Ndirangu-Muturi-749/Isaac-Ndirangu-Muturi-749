@@ -2,8 +2,7 @@
 
 Welcome to my GitHub page! Here, you'll find some of my projects and contributions in the world of coding and software development.
 
-<!-- Add a profile picture here if you like -->
-<!-- ![Profile Picture](dp.jpg) -->
+![Alt text](./image.png)
 
 ## About Me
 
