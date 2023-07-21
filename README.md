@@ -16,6 +16,7 @@ Connect with me on social media and other platforms:
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-muturi-3b6b2b237)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndirangumuturi749@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaacndirangumuturi/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NdiranguMuturi1?t=xXF2OKsqOUeb5J_4yysFKg&s=09)
 
 <!-- Add any other social links or platforms you want to include -->
 
