@@ -1,3 +1,8 @@
+### ⚡ Daily quote: 
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   ❞</i>
+<!--ENDS_HERE_QUOTE_README-->
+
 # Hello, I'm Isaac Ndirangu Muturi! 👋
 
 Welcome to my vibrant GitHub universe! Brace yourself for an exciting journey through the captivating realm of coding and software development. Get ready to embark on a thrilling adventure as we explore some of my incredible projects and groundbreaking contributions.
