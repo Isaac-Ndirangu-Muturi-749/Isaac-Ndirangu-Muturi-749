@@ -32,9 +32,23 @@ Connect with me on social media and other platforms:
 [![](https://raw.githubusercontent.com/Isaac-Ndirangu-Muturi-749/Isaac-Ndirangu-Muturi-749/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Isaac-Ndirangu-Muturi-749/Isaac-Ndirangu-Muturi-749/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
+### Github Stats
+
+![](http://my-git-hub-profile.vercel.app/api/cards/repos-per-language?username=Isaac-Ndirangu-Muturi-749&theme=default)
+
+![](http://my-git-hub-profile.vercel.app/api/cards/most-commit-language?username=Isaac-Ndirangu-Muturi-749&theme=default)
+
+![](http://my-git-hub-profile.vercel.app/api/cards/stats?username=Isaac-Ndirangu-Muturi-749&theme=default)
+
+![](http://my-git-hub-profile.vercel.app/api/cards/productive-time?username=Isaac-Ndirangu-Muturi-749&theme=default&utcOffset=8)
+
 ### Contribution graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Isaac-Ndirangu-Muturi-749)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Isaac-Ndirangu-Muturi-749) 
+
+### Contribution graph
+
+![](http://my-git-hub-profile.vercel.app/api/cards/profile-details?username=Isaac-Ndirangu-Muturi-749&theme=default)
 
 
 ### Trophies
