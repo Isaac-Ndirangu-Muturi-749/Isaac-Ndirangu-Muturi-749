@@ -19,6 +19,37 @@ I am a passionate and I've got some serious skills, including 💻 machine learn
 
 I love creating innovative solutions to real-world problems and enjoy collaborating with like-minded individuals on exciting projects.
 
+### Languages, Libraries, Tools and Frameworks:<br>
+<br>
+<p align="center">
+    <img src="./Images/Icons/Python_logo_and_wordmark.svg.png" height="30">
+    <img src="./Images/Icons/320px-NumPy_logo_2020.svg.png" height="30">
+    <img src="./Images/Icons/Pandas_logo.svg.png" height="30">
+    <img src="./Images/Icons/scikit-learn-logo-small.png" height="30">
+    <img src="./Images/Icons/statsmodels-logo-v2.svg" height="30">
+    <img src="./Images/Icons/240px-SCIPY_2.svg.png" height="30">
+    <img src="./Images/Icons/postgreSQL.png" height="30">
+    <img src="./Images/Icons/MySQL_textlogo.svg.png" height="30">
+    <img src="./Images/Icons/AWS-Certified-Solutions-Architect.png" height="30">
+    <img src="./Images/Icons/Tableau_Software_Logo_Small.png" height="30">
+    <img src="./Images/Icons/Matplotlib_logo.svg" height="30">
+    <img src="./Images/Icons/seaborn_logo.svg" height="30">
+    <img src="./Images/Icons/Tensorflow_logo.png" height="30">
+    <img src="./Images/Icons/keras-logo-2018-large-1200.png" height="30">
+    <img src="./Images/Icons/AWS-Certified-Cloud-Practitioner.png" height="30">
+    <img src="./Images/Icons/SageMaker-300x150.jpg" height="30">
+    <img src="./Images/Icons/320px-Amazon_Web_Services_Logo.svg.png" height="30">
+    <img src="./Images/Icons/Git-Logo-2Color.png" height="30">
+    <!-- <img src="./Images/Icons/Twilio-logo-red.svg.png" height="30">
+    <img src="./Images/Icons/Trello-logo-blue.svg.png" height="30"> -->
+    <img src="./Images/Icons/Microsoft_Office_logo_(2019–present).svg" height="30">
+    <img src="./Images/Icons/Microsoft_Office_Excel_(2019–present).svg.png" height="30">
+    <img src="./Images/Icons/207px-Jupyter_logo.svg.png" height="30">
+    <img src="./Images/Icons/Google_Colaboratory_SVG_Logo.svg.png" height="30">
+    <!-- <img src="./Images/Icons/Heroku_logo.svg.png" height="30"> -->
+  <br>
+</p>
+
 
 ## Get in Touch: Social Links
 If you share similar interests or want to collaborate on exciting projects, feel free to reach out to me. I'm always eager to connect with fellow developers and learn from each other's experiences.
