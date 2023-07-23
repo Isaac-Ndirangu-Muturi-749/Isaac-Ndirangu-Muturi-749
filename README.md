@@ -19,7 +19,7 @@ I am a passionate and I've got some serious skills, including 💻 machine learn
 
 I love creating innovative solutions to real-world problems and enjoy collaborating with like-minded individuals on exciting projects.
 
-### Languages, Libraries, Tools and Frameworks:<br>
+## Languages, Libraries, Tools and Frameworks:<br>
 <br>
 <p align="center">
     <img src="./Images/Icons/Python_logo_and_wordmark.svg.png" height="30">
