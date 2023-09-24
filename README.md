@@ -11,162 +11,101 @@ Buckle up, because this page is all about innovation, creativity, and pushing bo
 
 So, fasten your seatbelt and join me on this exhilarating coding odyssey! Let's make magic happen and create something extraordinary together. 🚀🌟
 
-<!DOCTYPE html>
-<html>
+# PROJECTS
 
-<head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
+## Data Science Projects
 
-        .project {
-            margin-bottom: 20px;
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-        }
+### 1. Box Office Movie Analysis
+![Box Office Movie Analysis](https://github.com/Isaac-Ndirangu-Muturi-749/Box-Office-Movie-Analysis/blob/master/project_image.jpg)
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Box-Office-Movie-Analysis)
 
-        .project-title {
-            font-size: 18px;
-            font-weight: bold;
-        }
+Description: An analysis of box office movies using SQLite and Pandas.
 
-        .project-description {
-            font-size: 14px;
-        }
+### 2. Regression Analysis for King County House Prices
+![Regression Analysis](https://github.com/Isaac-Ndirangu-Muturi-749/Regression-Analysis-for-King-County-House-prices/blob/master/project_image.jpg)
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Regression-Analysis-for-King-County-House-prices)
 
-        .project-link {
-            text-decoration: none;
-            background-color: #007BFF;
-            color: #fff;
-            padding: 5px 10px;
-            border-radius: 5px;
-        }
+Description: Predicting house prices in King County based on various features.
 
-        .project-image {
-            max-width: 100%;
-            height: auto;
-            margin-top: 10px;
-        }
-    </style>
-</head>
+### 3. Housing Affordability Analysis in King County Seattle
+![Housing Affordability Analysis](https://github.com/Isaac-Ndirangu-Muturi-749/Housing-Affordability-Analysis-in-King-County-Seattle/blob/master/project_image.jpg)
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Housing-Affordability-Analysis-in-King-County-Seattle)
 
-<body>
-    <h1>PROJECTS</h1>
+Description: Regression model to predict house prices in King County based on various features.
 
-    <h2>Data Science Projects</h2>
+### 4. SyriaTel Customer Churn Analysis
+![SyriaTel Customer Churn Analysis](https://github.com/Isaac-Ndirangu-Muturi-749/-SyriaTel-Customer-Churn-Analysis/blob/master/project_image.jpg)
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/-SyriaTel-Customer-Churn-Analysis)
 
-    <div class="project">
-        <h3 class="project-title">1. Box Office Movie Analysis</h3>
-        <img class="project-image" src="https://github.com/Isaac-Ndirangu-Muturi-749/Box-Office-Movie-Analysis/blob/master/project_image.jpg" alt="Box Office Movie Analysis">
-        <p class="project-description">An analysis of box office movies using SQLite and Pandas.</p>
-        <a class="project-link" href="https://github.com/Isaac-Ndirangu-Muturi-749/Box-Office-Movie-Analysis">View Project</a>
-    </div>
+Description: Analyzing and predicting customer churn in the telecommunications industry.
 
-    <div class="project">
-        <h3 class="project-title">2. Regression Analysis for King County House Prices</h3>
-        <img class="project-image" src="https://github.com/Isaac-Ndirangu-Muturi-749/Regression-Analysis-for-King-County-House-prices/blob/master/project_image.jpg" alt="Regression Analysis">
-        <p class="project-description">Predicting house prices in King County based on various features.</p>
-        <a class="project-link" href="https://github.com/Isaac-Ndirangu-Muturi-749/Regression-Analysis-for-King-County-House-prices">View Project</a>
-    </div>
+### 5. Exploring Titanic Dataset: Data Cleaning, Feature Engineering, and In-Depth Analysis
+![Titanic Dataset Analysis](https://github.com/Isaac-Ndirangu-Muturi-749/Exploring-Titanic-Dataset-Data-Cleaning-Feature-Engineering-and-In-Depth-Analysis/blob/main/images/titanicimage.jpg)
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Exploring-Titanic-Dataset-Data-Cleaning-Feature-Engineering-and-In-Depth-Analysis)
 
-    <div class="project">
-        <h3 class="project-title">3. Housing Affordability Analysis in King County Seattle</h3>
-        <img class="project-image" src="https://github.com/Isaac-Ndirangu-Muturi-749/Housing-Affordability-Analysis-in-King-County-Seattle/blob/master/project_image.jpg" alt="Housing Affordability Analysis">
-        <p class="project-description">Regression model to predict house prices in King County based on various features.</p>
-        <a class="project-link" href="https://github.com/Isaac-Ndirangu-Muturi-749/Housing-Affordability-Analysis-in-King-County-Seattle">View Project</a>
-    </div>
+Description: In-depth analysis of the Titanic dataset, including data cleaning and feature engineering.
 
-    <div class="project">
-        <h3 class="project-title">4. SyriaTel Customer Churn Analysis</h3>
-        <img class="project-image" src="https://github.com/Isaac-Ndirangu-Muturi-749/-SyriaTel-Customer-Churn-Analysis/blob/master/project_image.jpg" alt="SyriaTel Customer Churn Analysis">
-        <p class="project-description">Analyzing and predicting customer churn in the telecommunications industry.</p>
-        <a class="project-link" href="https://github.com/Isaac-Ndirangu-Muturi-749/-SyriaTel-Customer-Churn-Analysis">View Project</a>
-    </div>
+### 6. Predictive Marketing Campaign Analysis for Bank Term Deposit Subscription
+![Predictive Marketing Campaign Analysis](https://github.com/Isaac-Ndirangu-Muturi-749/Predictive-Marketing-Campaign-Analysis-Analysis-for-Bank-Term-Deposit-Subscription-Using-Decision-Tr/blob/main/images/customerpurchased.png)
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Predictive-Marketing-Campaign-Analysis-Analysis-for-Bank-Term-Deposit-Subscription-Using-Decision-Tr)
 
-    <div class="project">
-        <h3 class="project-title">5. Exploring Titanic Dataset: Data Cleaning, Feature Engineering, and In-Depth Analysis</h3>
-        <img class="project-image" src="https://github.com/Isaac-Ndirangu-Muturi-749/Exploring-Titanic-Dataset-Data-Cleaning-Feature-Engineering-and-In-Depth-Analysis/blob/main/images/titanicimage.jpg" alt="Titanic Dataset Analysis">
-        <p class="project-description">In-depth analysis of the Titanic dataset, including data cleaning and feature engineering.</p>
-        <a class="project-link" href="https://github.com/Isaac-Ndirangu-Muturi-749/Exploring-Titanic-Dataset-Data-Cleaning-Feature-Engineering-and-In-Depth-Analysis">View Project</a>
-    </div>
+Description: Analyzing a bank's marketing campaign dataset and making data-driven recommendations.
 
-    <div class="project">
-        <h3 class="project-title">6. Predictive Marketing Campaign Analysis for Bank Term Deposit Subscription</h3>
-        <img class="project-image" src="https://github.com/Isaac-Ndirangu-Muturi-749/Predictive-Marketing-Campaign-Analysis-Analysis-for-Bank-Term-Deposit-Subscription-Using-Decision-Tr/blob/main/images/customerpurchased.png" alt="Predictive Marketing Campaign Analysis">
-        <p class="project-description">Analyzing a bank's marketing campaign dataset and making data-driven recommendations.</p>
-        <a class="project-link" href="https://github.com/Isaac-Ndirangu-Muturi-749/Predictive-Marketing-Campaign-Analysis-Analysis-for-Bank-Term-Deposit-Subscription-Using-Decision-Tr">View Project</a>
-    </div>
+### 7. Unlocking Insights: Sentiment Analysis and Trend Visualization in Social Media Data
+![Sentiment Analysis](https://github.com/Isaac-Ndirangu-Muturi-749/Sentiment-Analysis-and-Trend-Visualization-in-Social-Media-Data-from-Twitter-using-NLP-and-Machine-L/blob/main/images/sentimentanalysis.png)
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Sentiment-Analysis-and-Trend-Visualization-in-Social-Media-Data-from-Twitter-using-NLP-and-Machine-L)
 
-    <div class="project">
-        <h3 class="project-title">7. Unlocking Insights: Sentiment Analysis and Trend Visualization in Social Media Data</h3>
-        <img class="project-image" src="https://github.com/Isaac-Ndirangu-Muturi-749/Sentiment-Analysis-and-Trend-Visualization-in-Social-Media-Data-from-Twitter-using-NLP-and-Machine-L/blob/main/images/sentimentanalysis.png" alt="Sentiment Analysis">
-        <p class="project-description">Analyzing sentiment patterns in social media data using NLP and machine learning.</p>
-        <a class="project-link" href="https://github.com/Isaac-Ndirangu-Muturi-749/Sentiment-Analysis-and-Trend-Visualization-in-Social-Media-Data-from-Twitter-using-NLP-and-Machine-L">View Project</a>
-    </div>
+Description: Analyzing sentiment patterns in social media data using NLP and machine learning.
 
-    <div class="project">
-        <h3 class="project-title">8. Project PostgreSQL: Investigate a Relational Database</h3>
-        <img class="project-image" src="https://github.com/Isaac-Ndirangu-Muturi-749/Project-PostgreSQL-Investigate-a-Relational-Database/blob/main/project_image.jpg" alt="PostgreSQL Project">
-        <p class="project-description">A comprehensive SQL project investigating a rental movie database.</p>
-        <a class="project-link" href="https://github.com/Isaac-Ndirangu-Muturi-749/Project-PostgreSQL-Investigate-a-Relational-Database">View Project</a>
-    </div>
+### 8. Project PostgreSQL: Investigate a Relational Database
+![PostgreSQL Project](https://github.com/Isaac-Ndirangu-Muturi-749/Project-PostgreSQL-Investigate-a-Relational-Database/blob/main/project_image.jpg)
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Project-PostgreSQL-Investigate-a-Relational-Database)
 
-    <div class="project">
-        <h3 class="project-title">9. Predictive Modeling for Car Purchase Amount</h3>
-        <img class="project-image" src="https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_04_DS--Predictive-Modeling-for-Car-Purchase-Amount/blob/main/car_purchase.png" alt="Predictive Modeling">
-        <p class="project-description">Building predictive models to estimate car purchase amounts based on demographic and financial features.</p>
-        <a class="project-link" href="https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_04_DS--Predictive-Modeling-for-Car-Purchase-Amount">View Project</a>
-    </div>
+Description: A comprehensive SQL project investigating a rental movie database.
 
-    <div class="project">
-        <h3 class="project-title">10. Exploring US Bikeshare Data</h3>
-        <img class="project-image" src="https://github.com/Isaac-Ndirangu-Muturi-749/Exploring-US-Bikeshare-data-in-3-major-cities-in-USA---python-script-web-app-deployment-using-flask/blob/main/bikeshare.png" alt="US Bikeshare Data">
-        <p class="project-description">Analyzing bikeshare data from U.S. cities and creating a web application.</p>
-        <a class="project-link" href="https://github.com/Isaac-Ndirangu-Muturi-749/Exploring-US-Bikeshare-data-in-3-major-cities-in-USA---python-script-web-app-deployment-using-flask">View Project</a>
-    </div>
+### 9. Predictive Modeling for Car Purchase Amount
+![Predictive Modeling](https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_04_DS--Predictive-Modeling-for-Car-Purchase-Amount/blob/main/car_purchase.png)
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_04_DS--Predictive-Modeling-for-Car-Purchase-Amount)
 
-    <div class="project">
-        <h3 class="project-title">11. Credit Card Fraud Detection with Machine Learning</h3>
-        <img class="project-image" src="https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_05_DS--Credit-Card-Fraud-Detection-using-Machine-Learning/blob/master/creditcardfraud.png" alt="Credit Card Fraud Detection">
-        <p class="project-description">Developing a machine learning model for credit card fraud detection.</p>
-        <a class="project-link" href="https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_05_DS--Credit-Card-Fraud-Detection-using-Machine-Learning">View Project</a>
-    </div>
+Description: Building predictive models to estimate car purchase amounts based on demographic and financial features.
 
-    <div class="project">
-        <h3 class="project-title">12. Iris Species Classification Using Machine Learning</h3>
-        <img class="project-image" src="https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_03_DS--Iris-Species-Classification-Using-Machine-Learning--A-Comprehensive-Analysis/blob/main/irisflower.png" alt="Iris Classification">
-        <p class="project-description">Classifying Iris flower species using various machine learning algorithms.</p>
-        <a class="project-link" href="https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_03_DS--Iris-Species-Classification-Using-Machine-Learning--A-Comprehensive-Analysis">View Project</a>
-    </div>
+### 10. Exploring US Bikeshare Data
+![US Bikeshare Data](https://github.com/Isaac-Ndirangu-Muturi-749/Exploring-US-Bikeshare-data-in-3-major-cities-in-USA---python-script-web-app-deployment-using-flask/blob/main/bikeshare.png)
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Exploring-US-Bikeshare-data-in-3-major-cities-in-USA---python-script-web-app-deployment-using-flask)
 
-    <div class="project">
-        <h3 class="project-title">13. World Bank Socioeconomic Indicators Analysis Project</h3>
-        <img class="project-image" src="https://github.com/Isaac-Ndirangu-Muturi-749/World-Bank-Socioeconomic-Indicators-Analysis-Project/blob/main/world_bank_photo.png" alt="World Bank Indicators Analysis">
-        <p class="project-description">Exploring socioeconomic indicators across different countries.</p>
-        <a class="project-link" href="https://github.com/Isaac-Ndirangu-Muturi-749/World-Bank-Socioeconomic-Indicators-Analysis-Project">View Project</a>
-    </div>
+Description: Analyzing bikeshare data from U.S. cities and creating a web application.
 
-    <h2>Software Engineering Projects</h2>
+### 11. Credit Card Fraud Detection with Machine Learning
+![Credit Card Fraud Detection](https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_05_DS--Credit-Card-Fraud-Detection-using-Machine-Learning/blob/master/creditcardfraud.png)
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_05_DS--Credit-Card-Fraud-Detection-using-Machine-Learning)
 
-    <div class="project">
-        <h3 class="project-title">1. My Simple Shell</h3>
-        <img class="project-image" src="https://github.com/Isaac-Ndirangu-Muturi-749/my_simple_shell/blob/master/project_image.jpg" alt="Simple Shell">
-        <p class="project-description">A lightweight Unix-like shell implementation written in C.</p>
-        <a class="project-link" href="https://github.com/Isaac-Ndirangu-Muturi-749/my_simple_shell">View Project</a>
-    </div>
+Description: Developing a machine learning model for credit card fraud detection.
 
-    <div class="project">
-        <h3 class="project-title">2. Custom Printf Implementation</h3>
-        <img class="project-image" src="https://github.com/Isaac-Ndirangu-Muturi-749/printf/blob/master/project_image.jpg" alt="Printf Implementation">
-        <p class="project-description">A custom implementation of the printf function in C.</p>
-        <a class="project-link" href="https://github.com/Isaac-Ndirangu-Muturi-749/printf">View Project</a>
-    </div>
-</body>
+### 12. Iris Species Classification Using Machine Learning
+![Iris Classification](https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_03_DS--Iris-Species-Classification-Using-Machine-Learning--A-Comprehensive-Analysis/blob/main/irisflower.png)
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_03_DS--Iris-Species-Classification-Using-Machine-Learning--A-Comprehensive-Analysis)
 
-</html>
+Description: Classifying Iris flower species using various machine learning algorithms.
 
+### 13. World Bank Socioeconomic Indicators Analysis Project
+![World Bank Indicators Analysis](https://github.com/Isaac-Ndirangu-Muturi-749/World-Bank-Socioeconomic-Indicators-Analysis-Project/blob/main/world_bank_photo.png)
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/World-Bank-Socioeconomic-Indicators-Analysis-Project)
+
+Description: Exploring socioeconomic indicators across different countries.
+
+## Software Engineering Projects
+
+### 1. My Simple Shell
+![Simple Shell](https://github.com/Isaac-Ndirangu-Muturi-749/my_simple_shell/blob/master/project_image.jpg)
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/my_simple_shell)
+
+Description: A lightweight Unix-like shell implementation written in C.
+
+### 2. Custom Printf Implementation
+![Printf Implementation](https://github.com/Isaac-Ndirangu-Muturi-749/printf/blob/master/project_image.jpg)
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/printf)
+
+Description: A custom implementation of the printf function in C.
 
 <!-- Feel free to add more sections or details as needed. -->
 
