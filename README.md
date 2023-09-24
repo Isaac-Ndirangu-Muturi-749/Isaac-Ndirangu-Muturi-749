@@ -98,18 +98,13 @@ Description: Exploring socioeconomic indicators across different countries.
 
 ## Software Engineering Projects
 
-### 14. My Simple Shell
-![Simple Shell](https://github.com/Isaac-Ndirangu
-
-## Software Engineering Projects
-
-### 14. My Simple Shell
+### 1. My Simple Shell
 ![Simple Shell](https://github.com/Isaac-Ndirangu-Muturi-749/my_simple_shell/blob/master/project_image.jpg)
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/my_simple_shell)
 
 Description: A lightweight Unix-like shell implementation written in C.
 
-### 15. Custom Printf Implementation
+### 2. Custom Printf Implementation
 ![Printf Implementation](https://github.com/Isaac-Ndirangu-Muturi-749/printf/blob/master/project_image.jpg)
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/printf)
 
