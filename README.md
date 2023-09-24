@@ -11,10 +11,7 @@ Buckle up, because this page is all about innovation, creativity, and pushing bo
 
 So, fasten your seatbelt and join me on this exhilarating coding odyssey! Let's make magic happen and create something extraordinary together. 🚀🌟
 
-
-# Welcome to My GitHub Profile!
-
-Certainly, here's the updated list of your Data Science and Software Engineering projects on GitHub with smaller images:
+# PROJECTS
 
 ## Data Science Projects
 
