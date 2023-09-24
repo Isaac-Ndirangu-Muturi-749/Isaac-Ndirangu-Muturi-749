@@ -14,6 +14,8 @@ So, fasten your seatbelt and join me on this exhilarating coding odyssey! Let's 
 
 # Welcome to My GitHub Profile!
 
+Certainly, here's the updated list of your Data Science and Software Engineering projects on GitHub with smaller images:
+
 ## Data Science Projects
 
 ### 1. Box Office Movie Analysis
@@ -65,7 +67,7 @@ Description: Analyzing sentiment patterns in social media data using NLP and mac
 Description: A comprehensive SQL project investigating a rental movie database.
 
 ### 9. Predictive Modeling for Car Purchase Amount
-![Predictive Modeling](https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_04_DS--Predictive-Modeling-for-Car-Purchase-Amount/blob/main/project_image.jpg)
+![Predictive Modeling](https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_04_DS--Predictive-Modeling-for-Car-Purchase-Amount/blob/main/car_purchase.png)
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_04_DS--Predictive-Modeling-for-Car-Purchase-Amount)
 
 Description: Building predictive models to estimate car purchase amounts based on demographic and financial features.
@@ -93,6 +95,11 @@ Description: Classifying Iris flower species using various machine learning algo
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/World-Bank-Socioeconomic-Indicators-Analysis-Project)
 
 Description: Exploring socioeconomic indicators across different countries.
+
+## Software Engineering Projects
+
+### 14. My Simple Shell
+![Simple Shell](https://github.com/Isaac-Ndirangu
 
 ## Software Engineering Projects
 
