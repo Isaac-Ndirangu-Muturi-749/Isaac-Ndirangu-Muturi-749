@@ -71,7 +71,7 @@ Description: A comprehensive SQL project investigating a rental movie database.
 Description: Building predictive models to estimate car purchase amounts based on demographic and financial features.
 
 ### 10. Exploring US Bikeshare Data
-![US Bikeshare Data](https://github.com/Isaac-Ndirangu-Muturi-749/Exploring-US-Bikeshare-data-in-3-major-cities-in-USA---python-script-web-app-deployment-using-flask/blob/master/project_image.jpg)
+![US Bikeshare Data](https://github.com/Isaac-Ndirangu-Muturi-749/Exploring-US-Bikeshare-data-in-3-major-cities-in-USA---python-script-web-app-deployment-using-flask/blob/main/bikeshare.png)
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Exploring-US-Bikeshare-data-in-3-major-cities-in-USA---python-script-web-app-deployment-using-flask)
 
 Description: Analyzing bikeshare data from U.S. cities and creating a web application.
