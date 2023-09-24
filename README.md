@@ -41,19 +41,19 @@ Description: Regression model to predict house prices in King County based on va
 Description: Analyzing and predicting customer churn in the telecommunications industry.
 
 ### 5. Exploring Titanic Dataset: Data Cleaning, Feature Engineering, and In-Depth Analysis
-![Titanic Dataset Analysis](https://github.com/Isaac-Ndirangu-Muturi-749/Exploring-Titanic-Dataset-Data-Cleaning-Feature-Engineering-and-In-Depth-Analysis/blob/master/project_image.jpg)
+![Titanic Dataset Analysis](https://github.com/Isaac-Ndirangu-Muturi-749/Exploring-Titanic-Dataset-Data-Cleaning-Feature-Engineering-and-In-Depth-Analysis/blob/master/images/titanicimage.jpg)
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Exploring-Titanic-Dataset-Data-Cleaning-Feature-Engineering-and-In-Depth-Analysis)
 
 Description: In-depth analysis of the Titanic dataset, including data cleaning and feature engineering.
 
 ### 6. Predictive Marketing Campaign Analysis for Bank Term Deposit Subscription
-![Predictive Marketing Campaign Analysis](https://github.com/Isaac-Ndirangu-Muturi-749/Predictive-Marketing-Campaign-Analysis-Analysis-for-Bank-Term-Deposit-Subscription-Using-Decision-Tr/blob/master/project_image.jpg)
+![Predictive Marketing Campaign Analysis](https://github.com/Isaac-Ndirangu-Muturi-749/Predictive-Marketing-Campaign-Analysis-Analysis-for-Bank-Term-Deposit-Subscription-Using-Decision-Tr/blob/master/images/customerpurchased.png)
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Predictive-Marketing-Campaign-Analysis-Analysis-for-Bank-Term-Deposit-Subscription-Using-Decision-Tr)
 
 Description: Analyzing a bank's marketing campaign dataset and making data-driven recommendations.
 
 ### 7. Unlocking Insights: Sentiment Analysis and Trend Visualization in Social Media Data
-![Sentiment Analysis](https://github.com/Isaac-Ndirangu-Muturi-749/Sentiment-Analysis-and-Trend-Visualization-in-Social-Media-Data-from-Twitter-using-NLP-and-Machine-L/blob/master/project_image.jpg)
+![Sentiment Analysis](https://github.com/Isaac-Ndirangu-Muturi-749/Sentiment-Analysis-and-Trend-Visualization-in-Social-Media-Data-from-Twitter-using-NLP-and-Machine-L/blob/master/images/sentimentanalysis.png)
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Sentiment-Analysis-and-Trend-Visualization-in-Social-Media-Data-from-Twitter-using-NLP-and-Machine-L)
 
 Description: Analyzing sentiment patterns in social media data using NLP and machine learning.
@@ -77,19 +77,19 @@ Description: Building predictive models to estimate car purchase amounts based o
 Description: Analyzing bikeshare data from U.S. cities and creating a web application.
 
 ### 11. Credit Card Fraud Detection with Machine Learning
-![Credit Card Fraud Detection](https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_05_DS--Credit-Card-Fraud-Detection-using-Machine-Learning/blob/master/project_image.jpg)
+![Credit Card Fraud Detection](https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_05_DS--Credit-Card-Fraud-Detection-using-Machine-Learning/blob/master/creditcardfraud.png)
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_05_DS--Credit-Card-Fraud-Detection-using-Machine-Learning)
 
 Description: Developing a machine learning model for credit card fraud detection.
 
 ### 12. Iris Species Classification Using Machine Learning
-![Iris Classification](https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_03_DS--Iris-Species-Classification-Using-Machine-Learning--A-Comprehensive-Analysis/blob/master/project_image.jpg)
+![Iris Classification](https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_03_DS--Iris-Species-Classification-Using-Machine-Learning--A-Comprehensive-Analysis/blob/master/irisflower.png)
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/CODSOFT_03_DS--Iris-Species-Classification-Using-Machine-Learning--A-Comprehensive-Analysis)
 
 Description: Classifying Iris flower species using various machine learning algorithms.
 
 ### 13. World Bank Socioeconomic Indicators Analysis Project
-![World Bank Indicators Analysis](https://github.com/Isaac-Ndirangu-Muturi-749/World-Bank-Socioeconomic-Indicators-Analysis-Project/blob/master/project_image.jpg)
+![World Bank Indicators Analysis](https://github.com/Isaac-Ndirangu-Muturi-749/World-Bank-Socioeconomic-Indicators-Analysis-Project/blob/master/world_bank_photo.png)
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/World-Bank-Socioeconomic-Indicators-Analysis-Project)
 
 Description: Exploring socioeconomic indicators across different countries.
