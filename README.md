@@ -78,6 +78,11 @@ Description: Classifying Iris flower species using various machine learning algo
 
 Description: Exploring socioeconomic indicators across different countries.
 
+### 14. Startups Funding Analysis and modelling with Crunchbase data
+[View Project](https://github.com/FirenziaF/STARTUP-FUNDING-ANALYSIS)
+
+Description: Analyzing and modeling startup funding trends using Crunchbase data for insightful insights.
+
 ## Software Engineering Projects
 
 ### 1. My Simple Shell
