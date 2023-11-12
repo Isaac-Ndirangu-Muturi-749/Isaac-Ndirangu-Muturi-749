@@ -83,6 +83,32 @@ Description: Exploring socioeconomic indicators across different countries.
 
 Description: Analyzing and modeling startup funding trends using Crunchbase data for insightful insights.
 
+## Machine Learning Engineering
+
+## Machine Learning Engineering
+
+### 1. EarlyHeart: Predictive Modeling for Early Heart Disease Detection
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/EarlyHeart-Predictive-Modeling-for-Early-Heart-Disease-Detection)
+
+Description: This project is a machine learning-based solution for predicting heart disease. It involves data analysis, model training, and deployment on AWS Elastic Beanstalk. The deployed application allows users to input patient data and receive predictions regarding the likelihood of heart disease. The project's repository includes Jupyter notebooks for data exploration, Python scripts for model training and prediction, and a Docker configuration for creating a reproducible environment. You can use the saved machine learning model to make predictions with minimal effort.
+
+
+
+
+## Large Language Models
+
+### 1. Generative AI: AI-Powered Data Extraction and Content Retrieval with GenAI Stack from AI_Planet_Hub
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Generative-AI--AI-Powered-Data-Extraction-and-Content-Retrieval-with-GenAI-Stack-from-AI_Planet_Hub)
+
+Description: This project combines advanced technologies to create a versatile system that excels in extracting valuable data from online sources and providing insightful answers to user queries. By leveraging GenAI Stack's powerful components, including Langchain ETL for data extraction and Hugging Face Embeddings for natural language understanding, the project offers a solution that is equally suitable for knowledge management, chatbots, and content retrieval. This project demonstrates the potential of AI in enhancing information accessibility and usability across various domains.
+
+### 2. Generative AI: Fine-Tuning a Hugging Face Transformer Model for Code Generation
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Generative-AI--Fine-Tuning-a-Hugging-Face-Transformer-Model-for-Code-Generation)
+
+Description: This project focuses on enhancing code generation capabilities through fine-tuning a Hugging Face Transformer model using the CodeAlpaca dataset. Employing techniques like Progressive Embedding Fine-Tuning (PEFT) and quantization, the model becomes proficient in understanding and generating code-related responses. Running on a GPU, the trained model can generate code snippets from user-provided prompts. This endeavor offers opportunities for various applications, including automated code generation and assistance, and presents an exciting step towards code-related artificial intelligence solutions.
+
+
+
 ## Software Engineering Projects
 
 ### 1. My Simple Shell
