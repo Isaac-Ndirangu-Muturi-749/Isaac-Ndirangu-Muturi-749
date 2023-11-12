@@ -83,9 +83,7 @@ Description: Exploring socioeconomic indicators across different countries.
 
 Description: Analyzing and modeling startup funding trends using Crunchbase data for insightful insights.
 
-# Machine Learning Engineering
-
-## Machine Learning Engineering
+# Machine Learning Engineering Projects
 
 ### 1. EarlyHeart: Predictive Modeling for Early Heart Disease Detection
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/EarlyHeart-Predictive-Modeling-for-Early-Heart-Disease-Detection)
@@ -95,7 +93,7 @@ Description: This project is a machine learning-based solution for predicting he
 
 
 
-# Large Language Models
+# Large Language Models (LLMs) Projects
 
 ### 1. Generative AI: AI-Powered Data Extraction and Content Retrieval with GenAI Stack from AI_Planet_Hub
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Generative-AI--AI-Powered-Data-Extraction-and-Content-Retrieval-with-GenAI-Stack-from-AI_Planet_Hub)
