@@ -9,6 +9,11 @@ Welcome to my vibrant GitHub universe! Brace yourself for an exciting journey th
 
 So, fasten your seatbelt and join me on this exhilarating coding odyssey! Let's make magic happen and create something extraordinary together. 🚀🌟
 
+### Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Isaac-Ndirangu-Muturi-749&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 # PROJECTS
 
 # Data Science Projects
@@ -193,8 +198,3 @@ Let's connect and build something amazing together! 🚀
 ### Contribution graph
 
 ![](http://my-git-hub-profile.vercel.app/api/cards/profile-details?username=Isaac-Ndirangu-Muturi-749&theme=default)
-
-
-### Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Isaac-Ndirangu-Muturi-749&column=7)](https://github.com/ryo-ma/github-profile-trophy)
