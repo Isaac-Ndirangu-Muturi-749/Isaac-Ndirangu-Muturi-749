@@ -114,15 +114,20 @@ Description: This project focuses on enhancing code generation capabilities thro
 
 # Software Engineering Projects
 
-### 1. My Simple Shell
+### 1. My Simple Shell in C
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/my_simple_shell)
 
 Description: A lightweight Unix-like shell implementation written in C.
 
-### 2. Custom Printf Implementation
+### 2. Custom Printf Implementation in C
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/printf)
 
 Description: A custom implementation of the printf function in C.
+
+### 3. Monty Interpreter in C
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/monty)
+
+Description: The Monty project is a stack-based interpreter written in C for Monty bytecode. It processes bytecode files, executing supported opcodes to manipulate a stack. The interpreter handles stack operations, arithmetic, and error conditions, providing a fundamental tool for understanding stack-based programming.
 
 <!-- Feel free to add more sections or details as needed. -->
 
