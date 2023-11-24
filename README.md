@@ -110,7 +110,12 @@ Description: This project combines advanced technologies to create a versatile s
 
 Description: This project focuses on enhancing code generation capabilities through fine-tuning a Hugging Face Transformer model using the CodeAlpaca dataset. Employing techniques like Progressive Embedding Fine-Tuning (PEFT) and quantization, the model becomes proficient in understanding and generating code-related responses. Running on a GPU, the trained model can generate code snippets from user-provided prompts. This endeavor offers opportunities for various applications, including automated code generation and assistance, and presents an exciting step towards code-related artificial intelligence solutions.
 
+#  Deep Learning and Neural Networks
 
+### 1. Understanding-the-Amazon-from-Space---computer-vision--classification
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Understanding-the-Amazon-from-Space---computer-vision--classification-)
+
+Description: In thisneural network project, I aimed to develop an effective model for classifying satellite images from the Planet dataset, which includes various environmental labels. I began by preprocessing the data, extracting unique labels, and utilizing transfer learning with a pre-trained model. The model architecture involved convolutional layers for feature extraction and fully connected layers for classification. I implemented data augmentation techniques and employed an ImageDataGenerator for efficient training. The training process utilized a custom loss function, and I monitored model performance using the F-beta score. Throughout the project, I leveraged tools such as TensorFlow, Keras, and Pandas for data manipulation, model development, and result analysis. The final model demonstrated significant success in multi-label classification, showcasing its potential for environmental monitoring applications.
 
 # Software Engineering Projects
 
