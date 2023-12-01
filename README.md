@@ -117,6 +117,14 @@ Description: This project focuses on enhancing code generation capabilities thro
 
 Description: In thisneural network project, I aimed to develop an effective model for classifying satellite images from the Planet dataset, which includes various environmental labels. I began by preprocessing the data, extracting unique labels, and utilizing transfer learning with a pre-trained model. The model architecture involved convolutional layers for feature extraction and fully connected layers for classification. I implemented data augmentation techniques and employed an ImageDataGenerator for efficient training. The training process utilized a custom loss function, and I monitored model performance using the F-beta score. Throughout the project, I leveraged tools such as TensorFlow, Keras, and Pandas for data manipulation, model development, and result analysis. The final model demonstrated significant success in multi-label classification, showcasing its potential for environmental monitoring applications.
 
+#  Time Series Forecasting
+
+### 1. Time Series Forecasting for Electric Power Consumption
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Time-Series-Forecasting-for-Electric-Power-Consumption/tree/main)
+
+Description: This project utilizes time series forecasting techniques to analyze individual household electric power consumption data collected over 47 months, from December 2006 to November 2010. The dataset, obtained from the UCI Machine Learning Repository, presents challenges such as missing values, which are addressed through preprocessing steps. The primary focus is on univariate time series modeling using Facebook Prophet, assessing model performance through metrics like RMSE and MAE. Additionally, the project extends to multivariate forecasting, incorporating multiple independent variables. Both univariate and multivariate models are evaluated, providing insights into the accuracy and predictive capabilities of the models. The entire analysis is encapsulated in a Jupyter notebook, offering a comprehensive exploration of time series forecasting techniques applied to household power consumption data.
+
+
 # Software Engineering Projects
 
 ### 1. My Simple Shell in C
