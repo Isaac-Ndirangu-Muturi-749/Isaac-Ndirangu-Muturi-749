@@ -95,6 +95,10 @@ Description: Analyzing and modeling startup funding trends using Crunchbase data
 
 Description: This project is a machine learning-based solution for predicting heart disease. It involves data analysis, model training, and deployment on AWS Elastic Beanstalk. The deployed application allows users to input patient data and receive predictions regarding the likelihood of heart disease. The project's repository includes Jupyter notebooks for data exploration, Python scripts for model training and prediction, and a Docker configuration for creating a reproducible environment. You can use the saved machine learning model to make predictions with minimal effort.
 
+### 2. Kitchenware Image Classification System with Keras: Deploying and Testing with AWS Lambda and TensorFlow Lite
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Kitchenware-Image-Classification-System-with-Keras-Deploying-and-Testing-with-AWS-Lambda)
+
+Description: Developed a Kitchenware Image Classification System using Keras, AWS Lambda, and TensorFlow Lite. The project focuses on automating the categorization of kitchenware items such as cups, forks, glasses, knives, plates, and spoons.
 
 
 
