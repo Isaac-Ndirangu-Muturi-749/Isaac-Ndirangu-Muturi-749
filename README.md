@@ -14,7 +14,7 @@ So, fasten your seatbelt and join me on this exhilarating coding odyssey! Let's 
 
 # Data Engineering Projects
 
-### 1. End_to_end_data_pipeline---Optimizing_Online_Retail_Analytics_with_Data_and_Analytics_Engineering
+### 1. End_to_end_data_pipeline--Optimizing_Online_Retail_Analytics_with_Data_and_Analytics_Engineering
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/End_to_end_data_pipeline--Optimizing_Online_Retail_Analytics_with_Data_and_Analytics_Engineering/tree/main?tab=readme-ov-file)
 
 This project optimizes online retail analytics with an end-to-end data pipeline, analytics engineering, and dashboarding. Leveraging cloud services, IaC, and CI/CD practices, it enables businesses to extract actionable insights from transactional data, empowering informed decision-making and strategic planning.
