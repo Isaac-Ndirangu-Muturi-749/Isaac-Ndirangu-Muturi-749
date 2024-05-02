@@ -9,6 +9,15 @@ So, fasten your seatbelt and join me on this exhilarating coding odyssey! Let's 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Isaac-Ndirangu-Muturi-749&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Get in Touch: Social Links
+If you share similar interests or want to collaborate on exciting projects, feel free to reach out to me. I'm always eager to connect with fellow developers and learn from each other's experiences.
+
+[![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isaac-Ndirangu-Muturi-749)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-muturi-3b6b2b237)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndirangumuturi749@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaacndirangumuturi/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NdiranguMuturi1?t=xXF2OKsqOUeb5J_4yysFKg&s=09)
+
 
 # PROJECTS
 
@@ -58,6 +67,28 @@ Description: In thisneural network project, I aimed to develop an effective mode
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Time-Series-Forecasting-for-Electric-Power-Consumption/tree/main)
 
 Description: This project utilizes time series forecasting techniques to analyze individual household electric power consumption data collected over 47 months, from December 2006 to November 2010. The dataset, obtained from the UCI Machine Learning Repository, presents challenges such as missing values, which are addressed through preprocessing steps. The primary focus is on univariate time series modeling using Facebook Prophet, assessing model performance through metrics like RMSE and MAE. Additionally, the project extends to multivariate forecasting, incorporating multiple independent variables. Both univariate and multivariate models are evaluated, providing insights into the accuracy and predictive capabilities of the models. The entire analysis is encapsulated in a Jupyter notebook, offering a comprehensive exploration of time series forecasting techniques applied to household power consumption data.
+
+# Software Engineering Projects
+
+### 1. My Simple Shell in C
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/my_simple_shell)
+
+Description: A lightweight Unix-like shell implementation written in C.
+
+### 2. Custom Printf Implementation in C
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/printf)
+
+Description: A custom implementation of the printf function in C.
+
+### 3. Monty Interpreter in C
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/monty)
+
+Description: The Monty project is a stack-based interpreter written in C for Monty bytecode. It processes bytecode files, executing supported opcodes to manipulate a stack. The interpreter handles stack operations, arithmetic, and error conditions, providing a fundamental tool for understanding stack-based programming.
+
+### 4. Maze Project: 3D Game Using Raycasting
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Maze-Project---3D-Game-Using-Raycasting)
+
+Description: 3D Maze Game: Utilizes raycasting to render a 2D representation of a 3D maze environment. Starter This project is a 3D maze game implemented in C. It uses raycasting to render a 2D representation of a 3D maze environment. The game features player movement, collisions, textured walls, rain effects, and more.
 
 # Data Science Projects
 
@@ -131,22 +162,6 @@ Description: Exploring socioeconomic indicators across different countries.
 
 Description: Analyzing and modeling startup funding trends using Crunchbase data for insightful insights.
 
-# Software Engineering Projects
-
-### 1. My Simple Shell in C
-[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/my_simple_shell)
-
-Description: A lightweight Unix-like shell implementation written in C.
-
-### 2. Custom Printf Implementation in C
-[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/printf)
-
-Description: A custom implementation of the printf function in C.
-
-### 3. Monty Interpreter in C
-[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/monty)
-
-Description: The Monty project is a stack-based interpreter written in C for Monty bytecode. It processes bytecode files, executing supported opcodes to manipulate a stack. The interpreter handles stack operations, arithmetic, and error conditions, providing a fundamental tool for understanding stack-based programming.
 
 <!-- Feel free to add more sections or details as needed. -->
 
