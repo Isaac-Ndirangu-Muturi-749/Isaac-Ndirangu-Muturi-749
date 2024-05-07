@@ -90,6 +90,15 @@ Description: The Monty project is a stack-based interpreter written in C for Mon
 
 Description: 3D Maze Game: Utilizes raycasting to render a 2D representation of a 3D maze environment. Starter This project is a 3D maze game implemented in C. It uses raycasting to render a 2D representation of a 3D maze environment. The game features player movement, collisions, textured walls, rain effects, and more.
 
+
+# Data Analytics
+
+### 1. FitBit Tracker Insights: Exploring Trends in Wellness Technology Consumer Behavior
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/FitBit_Tracker_Insights__Unveiling-Trends-in-Wellness-Technology-Consumer-Behavior)
+
+Description: FitBit Tracker Insights: Analyzing Fitbit data to uncover trends in wellness technology consumer behavior using R programming on Kaggle.
+
+
 # Data Science Projects
 
 ### 1. Box Office Movie Analysis
