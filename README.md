@@ -1,9 +1,9 @@
 
 # Hello, I'm Isaac Ndirangu Muturi! 👋
 
-Welcome to my vibrant GitHub universe! Brace yourself for an exciting journey through the captivating realm of coding and software development. Get ready to embark on a thrilling adventure as we explore some of my incredible projects and groundbreaking contributions.
+Welcome to my vibrant GitHub universe! Brace yourself for an exciting journey as we explore some of my projects and contributions.
 
-So, fasten your seatbelt and join me on this exhilarating coding odyssey! Let's make magic happen and create something extraordinary together. 🚀🌟
+Let's make magic happen and create something extraordinary together. Join me on this exhilarating coding odyssey! 🚀🌟
 
 ### Trophies
 
@@ -14,9 +14,9 @@ If you share similar interests or want to collaborate on exciting projects, feel
 
 [![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isaac-Ndirangu-Muturi-749)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-muturi-3b6b2b237)
+[![X/Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NdiranguMuturi1?t=xXF2OKsqOUeb5J_4yysFKg&s=09)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndirangumuturi749@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaacndirangumuturi/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NdiranguMuturi1?t=xXF2OKsqOUeb5J_4yysFKg&s=09)
 
 
 # PROJECTS
@@ -34,7 +34,7 @@ This project optimizes online retail analytics with an end-to-end data pipeline,
 ### 1. EarlyHeart: Predictive Modeling for Early Heart Disease Detection
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/EarlyHeart-Predictive-Modeling-for-Early-Heart-Disease-Detection)
 
-Description: This project is a machine learning-based solution for predicting heart disease. It involves data analysis, model training, and deployment on AWS Elastic Beanstalk. The deployed application allows users to input patient data and receive predictions regarding the likelihood of heart disease. The project's repository includes Jupyter notebooks for data exploration, Python scripts for model training and prediction, and a Docker configuration for creating a reproducible environment. You can use the saved machine learning model to make predictions with minimal effort.
+Description: This project is a machine learning-based solution for predicting heart disease. It involves data analysis, model training, and deployment on AWS Elastic Beanstalk. The deployed application allows users to input patient data and receive predictions regarding the likelihood of heart disease.
 
 ### 2. Kitchenware Image Classification System with Keras: Deploying and Testing with AWS Lambda and TensorFlow Lite
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Kitchenware-Image-Classification-System-with-Keras-Deploying-and-Testing-with-AWS-Lambda)
@@ -47,26 +47,26 @@ Description: Developed a Kitchenware Image Classification System using Keras, AW
 ### 1. Generative AI: AI-Powered Data Extraction and Content Retrieval with GenAI Stack from AI_Planet_Hub
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Generative-AI--AI-Powered-Data-Extraction-and-Content-Retrieval-with-GenAI-Stack-from-AI_Planet_Hub)
 
-Description: This project combines advanced technologies to create a versatile system that excels in extracting valuable data from online sources and providing insightful answers to user queries. By leveraging GenAI Stack's powerful components, including Langchain ETL for data extraction and Hugging Face Embeddings for natural language understanding, the project offers a solution that is equally suitable for knowledge management, chatbots, and content retrieval. This project demonstrates the potential of AI in enhancing information accessibility and usability across various domains.
+Description:  By leveraging GenAI Stack's powerful components, including Langchain ETL for data extraction and Hugging Face Embeddings for natural language understanding, the project offers a solution that excels in extracting valuable data from online sources and providing insightful answers to user queries.
 
 ### 2. Generative AI: Fine-Tuning a Hugging Face Transformer Model for Code Generation
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Generative-AI--Fine-Tuning-a-Hugging-Face-Transformer-Model-for-Code-Generation)
 
-Description: This project focuses on enhancing code generation capabilities through fine-tuning a Hugging Face Transformer model using the CodeAlpaca dataset. Employing techniques like Progressive Embedding Fine-Tuning (PEFT) and quantization, the model becomes proficient in understanding and generating code-related responses. Running on a GPU, the trained model can generate code snippets from user-provided prompts. This endeavor offers opportunities for various applications, including automated code generation and assistance, and presents an exciting step towards code-related artificial intelligence solutions.
+Description: This project focuses on enhancing code generation capabilities through fine-tuning a Hugging Face Transformer model using the CodeAlpaca dataset. Employing techniques like Progressive Embedding Fine-Tuning (PEFT) and quantization, the model becomes proficient in understanding and generating code-related responses. Running on a GPU, the trained model can generate code snippets from user-provided prompts.
 
 #  Deep Learning and Neural Networks
 
 ### 1. Understanding-the-Amazon-from-Space---computer-vision--classification
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Understanding-the-Amazon-from-Space---computer-vision--classification-)
 
-Description: In thisneural network project, I aimed to develop an effective model for classifying satellite images from the Planet dataset, which includes various environmental labels. I began by preprocessing the data, extracting unique labels, and utilizing transfer learning with a pre-trained model. The model architecture involved convolutional layers for feature extraction and fully connected layers for classification. I implemented data augmentation techniques and employed an ImageDataGenerator for efficient training. The training process utilized a custom loss function, and I monitored model performance using the F-beta score. Throughout the project, I leveraged tools such as TensorFlow, Keras, and Pandas for data manipulation, model development, and result analysis. The final model demonstrated significant success in multi-label classification, showcasing its potential for environmental monitoring applications.
+Description: I aimed to develop an effective model for classifying satellite images from the Planet dataset, which includes various environmental labels. I began by preprocessing the data, extracting unique labels, and utilizing transfer learning with a pre-trained model. The model architecture involved convolutional layers for feature extraction and fully connected layers for classification. I implemented data augmentation techniques and employed an ImageDataGenerator for efficient training. The training process utilized a custom loss function, and I monitored model performance using the F-beta score. Throughout the project, I leveraged tools such as TensorFlow, Keras, and Pandas for data manipulation, model development, and result analysis. The final model demonstrated significant success in multi-label classification, showcasing its potential for environmental monitoring applications.
 
 #  Time Series Forecasting
 
 ### 1. Time Series Forecasting for Electric Power Consumption
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Time-Series-Forecasting-for-Electric-Power-Consumption/tree/main)
 
-Description: This project utilizes time series forecasting techniques to analyze individual household electric power consumption data collected over 47 months, from December 2006 to November 2010. The dataset, obtained from the UCI Machine Learning Repository, presents challenges such as missing values, which are addressed through preprocessing steps. The primary focus is on univariate time series modeling using Facebook Prophet, assessing model performance through metrics like RMSE and MAE. Additionally, the project extends to multivariate forecasting, incorporating multiple independent variables. Both univariate and multivariate models are evaluated, providing insights into the accuracy and predictive capabilities of the models. The entire analysis is encapsulated in a Jupyter notebook, offering a comprehensive exploration of time series forecasting techniques applied to household power consumption data.
+**Description:** This project analyzes household electric power consumption data over 47 months using time series forecasting techniques.The focus is on univariate time series modeling with Facebook Prophet, evaluating performance using RMSE and MAE. It also explores multivariate forecasting with multiple independent variables. Both models are assessed for accuracy and predictive capabilities.
 
 # Software Engineering Projects
 
