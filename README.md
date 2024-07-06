@@ -59,14 +59,14 @@ Description: This project focuses on enhancing code generation capabilities thro
 ### 1. Understanding-the-Amazon-from-Space---computer-vision--classification
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Understanding-the-Amazon-from-Space---computer-vision--classification-)
 
-Description: I aimed to develop an effective model for classifying satellite images from the Planet dataset, which includes various environmental labels. I began by preprocessing the data, extracting unique labels, and utilizing transfer learning with a pre-trained model. The model architecture involved convolutional layers for feature extraction and fully connected layers for classification. I implemented data augmentation techniques and employed an ImageDataGenerator for efficient training. The training process utilized a custom loss function, and I monitored model performance using the F-beta score. Throughout the project, I leveraged tools such as TensorFlow, Keras, and Pandas for data manipulation, model development, and result analysis. The final model demonstrated significant success in multi-label classification, showcasing its potential for environmental monitoring applications.
+Description: I developed a model to classify satellite images from the Planet dataset with various environmental labels. Using transfer learning with a pre-trained model, I extracted features through convolutional layers and classified them with fully connected layers. Data preprocessing, augmentation, and an ImageDataGenerator enhanced training efficiency. A custom loss function and F-beta score monitored performance. Tools like TensorFlow, Keras, and Pandas facilitated data manipulation and model development.
 
 #  Time Series Forecasting
 
 ### 1. Time Series Forecasting for Electric Power Consumption
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Time-Series-Forecasting-for-Electric-Power-Consumption/tree/main)
 
-**Description:** This project analyzes household electric power consumption data over 47 months using time series forecasting techniques.The focus is on univariate time series modeling with Facebook Prophet, evaluating performance using RMSE and MAE. It also explores multivariate forecasting with multiple independent variables. Both models are assessed for accuracy and predictive capabilities.
+Description: This project analyzes household electric power consumption data over 47 months using time series forecasting techniques.The focus is on univariate time series modeling with Facebook Prophet, evaluating performance using RMSE and MAE. It also explores multivariate forecasting with multiple independent variables. Both models are assessed for accuracy and predictive capabilities.
 
 # Software Engineering Projects
 
