@@ -26,8 +26,7 @@ If you share similar interests or want to collaborate on exciting projects, feel
 ### 1. End_to_end_data_pipeline--Optimizing_Online_Retail_Analytics_with_Data_and_Analytics_Engineering
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/End_to_end_data_pipeline--Optimizing_Online_Retail_Analytics_with_Data_and_Analytics_Engineering/tree/main?tab=readme-ov-file)
 
-This project optimizes online retail analytics with an end-to-end data pipeline, analytics engineering, and dashboarding. Leveraging cloud services, IaC, and CI/CD practices, it enables businesses to extract actionable insights from transactional data, empowering informed decision-making and strategic planning.
-
+Developed an end-to-end data pipeline for optimizing Online Retail analytics. This includes leveraging Google Cloud services, using Terraform for Infrastructure as Code, and implementing CI/CD practices. The pipeline integrates transactional data into BigQuery for data modeling and transformation with dbt (Data Build Tool) and utilizes Looker Studio for dashboarding.
 
 # Machine Learning Engineering Projects
 
