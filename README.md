@@ -82,7 +82,7 @@ Description: A custom implementation of the printf function in C.
 ### 3. Monty Interpreter in C
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/monty)
 
-Description: The Monty project is a stack-based interpreter written in C for Monty bytecode. It processes bytecode files, executing supported opcodes to manipulate a stack. The interpreter handles stack operations, arithmetic, and error conditions, providing a fundamental tool for understanding stack-based programming.
+Description: The Monty project is a stack-based interpreter written in C that processes Monty bytecode files.
 
 ### 4. Maze Project: 3D Game Using Raycasting
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Maze-Project---3D-Game-Using-Raycasting)
