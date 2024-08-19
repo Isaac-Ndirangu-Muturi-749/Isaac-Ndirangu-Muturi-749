@@ -21,6 +21,13 @@ If you share similar interests or want to collaborate on exciting projects, feel
 
 # PROJECTS
 
+# MLOps Projects
+
+### 1. Car Price Prediction: End-to-End MLOps Pipeline
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Car-Price-Prediction-End-to-End-MLOps-Pipeline/tree/main?tab=readme-ov-file)
+
+This project implements an end-to-end MLOps pipeline for predicting car prices. It covers the entire workflow, from data preprocessing to model deployment and monitoring. The tools and technologies used ensure reproducibility, scalability, and efficient model management.
+
 # Data Engineering Projects
 
 ### 1. End_to_end_data_pipeline--Optimizing_Online_Retail_Analytics_with_Data_and_Analytics_Engineering
