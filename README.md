@@ -26,7 +26,7 @@ If you share similar interests or want to collaborate on exciting projects, feel
 ### 1. Car Price Prediction: End-to-End MLOps Pipeline
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Car-Price-Prediction-End-to-End-MLOps-Pipeline/tree/main?tab=readme-ov-file)
 
-This project implements an end-to-end MLOps pipeline for predicting car prices. It covers the entire workflow, from data preprocessing to model deployment and monitoring. The tools and technologies used ensure reproducibility, scalability, and efficient model management.
+This project implements an end-to-end MLOps pipeline for predicting car prices, covering the full workflow from data preprocessing to model deployment and monitoring. It ensures reproducibility, scalability, and efficient model management using **MLflow** for experiment tracking, **Flask** and **Docker** for deployment, **AWS** (S3, RDS, EC2) for cloud infrastructure, **Evidently** and **Grafana** for monitoring, **Prefect** for workflow orchestration, **CloudFormation** for infrastructure as code, and **Pytest** with **Dockerized integration tests** for testing. Additionally, **isort**, **black**, **pylint**, **pre-commit hooks**, **Makefile**, and **GitHub Actions** are used for code quality and automation.
 
 # Data Engineering Projects
 
