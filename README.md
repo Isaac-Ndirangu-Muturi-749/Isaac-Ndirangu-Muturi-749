@@ -47,6 +47,34 @@ Description: This project is a machine learning-based solution for predicting he
 
 Description: Developed a Kitchenware Image Classification System using Keras, AWS Lambda, and TensorFlow Lite. The project focuses on automating the categorization of kitchenware items such as cups, forks, glasses, knives, plates, and spoons.
 
+# Software Engineering Projects
+
+### 1. My Simple Shell in C
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/my_simple_shell)
+
+Description: A lightweight Unix-like shell implementation written in C.
+
+### 2. Custom Printf Implementation in C
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/printf)
+
+Description: A custom implementation of the printf function in C.
+
+### 3. Maze Project: 3D Game Using Raycasting
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Maze-Project---3D-Game-Using-Raycasting)
+
+Description: 3D Maze Game: Utilizes raycasting to render a 2D representation of a 3D maze environment. Starter This project is a 3D maze game implemented in C. It uses raycasting to render a 2D representation of a 3D maze environment. The game features player movement, collisions, textured walls, rain effects, and more.
+
+### 4. Quick Eats & Drinks Store
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Quick-Eats-and-Drinks-Store)
+
+Description: Quick Eats & Drinks Store is an online store offering a variety of popular ready-made food products and beverages. This application caters to a broad audience seeking convenience and variety, allowing users to browse products, place orders, and manage their order history. The platform also includes an admin interface for managing products, product groups, and users.
+
+# Data Analytics
+
+### 1. FitBit Tracker Insights: Exploring Trends in Wellness Technology Consumer Behavior
+[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/FitBit_Tracker_Insights__Unveiling-Trends-in-Wellness-Technology-Consumer-Behavior)
+
+Description: FitBit Tracker Insights: Analyzing Fitbit data to uncover trends in wellness technology consumer behavior using R programming on Kaggle.
 
 # Large Language Models (LLMs) Projects
 
@@ -73,37 +101,6 @@ Description: I developed a model to classify satellite images from the Planet da
 [View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Time-Series-Forecasting-for-Electric-Power-Consumption/tree/main)
 
 Description: This project analyzes household electric power consumption data over 47 months using time series forecasting techniques.The focus is on univariate time series modeling with Facebook Prophet, evaluating performance using RMSE and MAE. It also explores multivariate forecasting with multiple independent variables. Both models are assessed for accuracy and predictive capabilities.
-
-# Software Engineering Projects
-
-### 1. My Simple Shell in C
-[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/my_simple_shell)
-
-Description: A lightweight Unix-like shell implementation written in C.
-
-### 2. Custom Printf Implementation in C
-[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/printf)
-
-Description: A custom implementation of the printf function in C.
-
-### 3. Monty Interpreter in C
-[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/monty)
-
-Description: The Monty project is a stack-based interpreter written in C that processes Monty bytecode files.
-
-### 4. Maze Project: 3D Game Using Raycasting
-[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/Maze-Project---3D-Game-Using-Raycasting)
-
-Description: 3D Maze Game: Utilizes raycasting to render a 2D representation of a 3D maze environment. Starter This project is a 3D maze game implemented in C. It uses raycasting to render a 2D representation of a 3D maze environment. The game features player movement, collisions, textured walls, rain effects, and more.
-
-
-# Data Analytics
-
-### 1. FitBit Tracker Insights: Exploring Trends in Wellness Technology Consumer Behavior
-[View Project](https://github.com/Isaac-Ndirangu-Muturi-749/FitBit_Tracker_Insights__Unveiling-Trends-in-Wellness-Technology-Consumer-Behavior)
-
-Description: FitBit Tracker Insights: Analyzing Fitbit data to uncover trends in wellness technology consumer behavior using R programming on Kaggle.
-
 
 # Data Science Projects
 
